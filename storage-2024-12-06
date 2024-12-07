@@ -1,0 +1,20 @@
+[2024-12-06 12:57:02] local.ERROR: There are no commands defined in the "swagger-lume" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"swagger-lume\" namespace. at E:\\Desafio\\PHP\\controle-series\\vendor\\symfony\\console\\Application.php:606)
+[stacktrace]
+#0 E:\\Desafio\\PHP\\controle-series\\vendor\\symfony\\console\\Application.php(659): Symfony\\Component\\Console\\Application->findNamespace()
+#1 E:\\Desafio\\PHP\\controle-series\\vendor\\symfony\\console\\Application.php(237): Symfony\\Component\\Console\\Application->find()
+#2 E:\\Desafio\\PHP\\controle-series\\vendor\\symfony\\console\\Application.php(149): Symfony\\Component\\Console\\Application->doRun()
+#3 E:\\Desafio\\PHP\\controle-series\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(90): Symfony\\Component\\Console\\Application->run()
+#4 E:\\Desafio\\PHP\\controle-series\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Console\\Application->run()
+#5 E:\\Desafio\\PHP\\controle-series\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
+[2024-12-06 12:58:07] local.ERROR: There are no commands defined in the "swagger-lume" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"swagger-lume\" namespace. at E:\\Desafio\\PHP\\controle-series\\vendor\\symfony\\console\\Application.php:606)
+[stacktrace]
+#0 E:\\Desafio\\PHP\\controle-series\\vendor\\symfony\\console\\Application.php(659): Symfony\\Component\\Console\\Application->findNamespace()
+#1 E:\\Desafio\\PHP\\controle-series\\vendor\\symfony\\console\\Application.php(237): Symfony\\Component\\Console\\Application->find()
+#2 E:\\Desafio\\PHP\\controle-series\\vendor\\symfony\\console\\Application.php(149): Symfony\\Component\\Console\\Application->doRun()
+#3 E:\\Desafio\\PHP\\controle-series\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Application.php(90): Symfony\\Component\\Console\\Application->run()
+#4 E:\\Desafio\\PHP\\controle-series\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(133): Illuminate\\Console\\Application->run()
+#5 E:\\Desafio\\PHP\\controle-series\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#6 {main}
+"} 
